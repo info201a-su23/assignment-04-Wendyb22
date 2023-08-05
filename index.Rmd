@@ -1,5 +1,7 @@
 ---
 title: "A3: Incarceration"
+author: "Wendy Bu"
+date: "8/5/2023"
 output: html_document
 ---
 ```{r setup, include=FALSE}
@@ -47,4 +49,5 @@ This chart illustrates the relationship between two different continuous variabl
 ```{r}
 black_prison_pop_by_state_map
 ```
+
 This map helps us to visualize and compare the geographical distribution of average black prison population rate by state in 2013. I use a yellow-red color ramp. It shows that states such as Texas has the highest average black prison population rate in 2013, and states that are in upper north have relatively low rates.
